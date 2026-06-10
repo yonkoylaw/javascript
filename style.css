@@ -24,6 +24,7 @@ header{
     background-color:var(--very-light-col)
     color:var(--light-col)
     margin: 30px;
+    text-align: center;
 }
 div{
     border: solid 5px var(--med-col)
